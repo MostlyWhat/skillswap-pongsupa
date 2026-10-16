@@ -1,6 +1,8 @@
-# skillswap-pongsupa
+# SkillSwap
 
-SkillSwap design and implementation for Rize's Software Development Course
+SkillSwap is a platform for users to learn new skills cost-effectively through high-quality and personal learning experience with a verified expert. But also for experts to get paid easily by offering expertise to users with flexibility. Unlike other platforms that can feel unsafe and not offer the right skills at a high-price, SkillSwap verifies the credibility of both users and tutors, offers flexibility to book and teach at your own pace, and quality lessons verified by users-alike.
+
+SkillSwap design and implementation for Rize's Software Development Course by Pongsupa "Poonpun" Supapa.
 
 ## Prerequisite
 
