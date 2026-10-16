@@ -4,7 +4,6 @@
     import { toUrl } from '@/lib/utils';
     import { dashboard, login } from '@/routes';
     import { register } from '@/routes';
-    import { toast } from "svelte-sonner";
 
     const auth = $derived(page.props.auth);
 </script>
