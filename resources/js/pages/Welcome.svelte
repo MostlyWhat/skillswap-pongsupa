@@ -18,9 +18,40 @@
     >
         <nav class="flex items-center justify-between gap-4">
             <div class="flex items-center gap-4">
-                <span class="text-xl font-medium py-1.5 text-sm leading-normal text-[#1b1b18] dark:text-[#EDEDEC]">
+                <span class="text-xl font-medium py-1.5 leading-normal text-[#1b1b18] dark:text-[#EDEDEC]">
                     Skill<span class="text-[#f53003] dark:text-[#FF4433]">Swap</span>
                 </span>
+                <br>
+                <Link
+                    href="/"
+                    class="inline-block rounded-sm border border-transparent py-1.5 text-sm leading-normal text-[#1b1b18] dark:text-[#EDEDEC]"
+                >
+                    Home
+                </Link>
+                <Link
+                    href="/learn"
+                    class="inline-block rounded-sm border border-transparent py-1.5 text-sm leading-normal text-[#1b1b18] dark:text-[#EDEDEC]"
+                >
+                    Learn
+                </Link>
+                <Link
+                    href="/share"
+                    class="inline-block rounded-sm border border-transparent py-1.5 text-sm leading-normal text-[#1b1b18] dark:text-[#EDEDEC]"
+                >
+                    Share
+                </Link>
+                <Link
+                    href="/earn"
+                    class="inline-block rounded-sm border border-transparent py-1.5 text-sm leading-normal text-[#1b1b18] dark:text-[#EDEDEC]"
+                >
+                    Earn
+                </Link>
+                <Link
+                    href="/about"
+                    class="inline-block rounded-sm border border-transparent py-1.5 text-sm leading-normal text-[#1b1b18] dark:text-[#EDEDEC]"
+                >
+                    About
+                </Link>
             </div>
             <div class="flex items-center gap-4">
                 {#if auth.user}
@@ -166,7 +197,9 @@
             </div>
         </main>
     </div>
-    <footer class="pt-6 text-[#1b1b18] dark:text-[#EDEDEC]">
-        &copy; Copyright 2026 SkillSwap Inc. All rights reserved.
+    <footer class="pt-6 text-[#1b1b18] dark:text-[#EDEDEC] w-full max-w-[335px] lg:max-w-4xl">
+        <p class="text-[#706f6c] dark:text-[#A1A09A]">SkillSwap is a platform for users to learn new skills cost-effectively through high-quality and personal learning experience with a verified expert.</p>
+        <br>
+        <p>&copy; Copyright 2026 SkillSwap Inc. All rights reserved.</p>
     </footer>
 </div>
