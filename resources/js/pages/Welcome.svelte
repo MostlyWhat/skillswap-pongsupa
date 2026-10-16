@@ -134,7 +134,7 @@
                     <li>
                         <button
                             onclick={() => alert("You have booked a session with John Doe!")}
-                            class="inline-block rounded-sm border border-black bg-[#1b1b18] px-5 py-1.5 text-sm leading-normal text-white hover:border-black hover:bg-black dark:border-[#eeeeec] dark:bg-[#eeeeec] dark:text-[#1C1C1A] dark:hover:border-white dark:hover:bg-white"
+                            class="inline-block rounded-sm border border-black bg-[#1b1b18] px-5 py-1.5 text-sm leading-normal text-white hover:border-[#f53003] hover:bg-[#f53003] dark:border-[#eeeeec] dark:bg-[#eeeeec] dark:text-[#1C1C1A] dark:hover:border-[#f53003] dark:hover:bg-[#f53003] transition-all duration-200"
                         >
                             Book a Session with John Doe
                         </button>
@@ -186,7 +186,7 @@
                     <li>
                         <button
                             onclick={() => alert("You have booked a session with Jane Doe!")}
-                            class="inline-block rounded-sm border border-black bg-[#1b1b18] px-5 py-1.5 text-sm leading-normal text-white hover:border-black hover:bg-black dark:border-[#eeeeec] dark:bg-[#eeeeec] dark:text-[#1C1C1A] dark:hover:border-white dark:hover:bg-white"
+                            class="inline-block rounded-sm border border-black bg-[#1b1b18] px-5 py-1.5 text-sm leading-normal text-white hover:border-[#f53003] hover:bg-[#f53003] dark:border-[#eeeeec] dark:bg-[#eeeeec] dark:text-[#1C1C1A] dark:hover:border-[#f53003] dark:hover:bg-[#f53003] transition-all duration-200"
                         >
                             Book a Session with Jane Doe
                         </button>
@@ -238,7 +238,7 @@
                     <li>
                         <button
                             onclick={() => alert("You have booked a session with James Doe!")}
-                            class="inline-block rounded-sm border border-black bg-[#1b1b18] px-5 py-1.5 text-sm leading-normal text-white hover:border-black hover:bg-black dark:border-[#eeeeec] dark:bg-[#eeeeec] dark:text-[#1C1C1A] dark:hover:border-white dark:hover:bg-white"
+                            class="inline-block rounded-sm border border-black bg-[#1b1b18] px-5 py-1.5 text-sm leading-normal text-white hover:border-[#f53003] hover:bg-[#f53003] dark:border-[#eeeeec] dark:bg-[#eeeeec] dark:text-[#1C1C1A] dark:hover:border-[#f53003] dark:hover:bg-[#f53003] transition-all duration-200"
                         >
                             Book a Session with James Doe
                         </button>
@@ -290,7 +290,7 @@
                     <li>
                         <button
                             onclick={() => alert("You have booked a session with Jami Doe!")}
-                            class="inline-block rounded-sm border border-black bg-[#1b1b18] px-5 py-1.5 text-sm leading-normal text-white hover:border-black hover:bg-black dark:border-[#eeeeec] dark:bg-[#eeeeec] dark:text-[#1C1C1A] dark:hover:border-white dark:hover:bg-white"
+                            class="inline-block rounded-sm border border-black bg-[#1b1b18] px-5 py-1.5 text-sm leading-normal text-white hover:border-[#f53003] hover:bg-[#f53003] dark:border-[#eeeeec] dark:bg-[#eeeeec] dark:text-[#1C1C1A] dark:hover:border-[#f53003] dark:hover:bg-[#f53003] transition-all duration-200"
                         >
                             Book a Session with Jami Doe
                         </button>
